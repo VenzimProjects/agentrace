@@ -8,7 +8,7 @@
 
 **Same repo. Same task. Same checks. One reproducible local result.**
 
-[![CI](https://github.com/venzimprojects-lang/agentrace/actions/workflows/ci.yml/badge.svg)](https://github.com/venzimprojects-lang/agentrace/actions/workflows/ci.yml)
+[![CI](https://github.com/VenzimProjects/agentrace/actions/workflows/ci.yml/badge.svg)](https://github.com/VenzimProjects/agentrace/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
@@ -34,7 +34,7 @@ No AgentRace account. No hosted judge. Results stay local.
 You do **not** need Claude, Codex or Gemini installed to preview the UI:
 
 ```bash
-git clone https://github.com/venzimprojects-lang/agentrace.git
+git clone https://github.com/VenzimProjects/agentrace.git
 cd agentrace
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
