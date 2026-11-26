@@ -9,7 +9,7 @@ description = "Race Claude Code, Codex and Gemini CLI on your own codebase."
 readme = "README.md"
 requires-python = ">=3.11"
 license = {text = "MIT"}
-authors = [{name = "venzimprojects-lang"}]
+authors = [{name = "VenzimProjects"}]
 keywords = ["ai", "agents", "codex", "claude", "gemini", "benchmark", "developer-tools"]
 classifiers = [
   "Development Status :: 3 - Alpha",
